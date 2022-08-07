@@ -1,0 +1,7 @@
+name: RemoteCommands
+version: '${project.version}'
+main: jrv1000.remotecommands.Remotecommands
+api-version: 1.19
+commands:
+  runCommands:
+    description: Runs commands from github.
