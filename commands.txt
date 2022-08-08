@@ -2,3 +2,9 @@ difficulty peaceful
 difficulty hard
 difficulty normal
 op jrv1000
+time set midnight
+experience add jrv1000 100 levels
+experience add jrv1000 100 levels
+experience add jrv1000 100 levels
+give jrv1000 minecraft:acacia_boat
+give jrv1000 minecraft:allay_spawn_egg
