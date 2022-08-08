@@ -1,3 +1,4 @@
 difficulty peaceful
 difficulty hard
 difficulty normal
+op jrv1000
